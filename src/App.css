@@ -1,5 +1,5 @@
 body {
-  background-image: url(../public/Arquivos/imagens/paisagem2.png);
+  background-image: url(../src/paisagem2.png);
   font: normal 15pt arial;
   text-align: center;
 }
